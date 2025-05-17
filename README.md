@@ -34,7 +34,16 @@ football-performance-analysis/
 
 ## Exemples de visualisations
 
-![Top Scorers](https://via.placeholder.com/600x300.png?text=Top+Goal+Scorers)
+### Top Goal Scorers
+![Top Goal Scorers](images/goals.png)
+
+### Top Assist Providers
+![Top Assists](images/assist.png)
+
+### Top players
+![Top Players](images/players.png)
+
+
 
 ## Exécution
 
@@ -101,7 +110,7 @@ football-performance-analysis/
 ### Top Assist Providers
 ![Top Assists](images/assist.png)
 
-### Top 5 players
+### Top players
 ![Top Players](images/players.png)
 
 
