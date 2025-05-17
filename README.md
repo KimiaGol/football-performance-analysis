@@ -95,7 +95,15 @@ football-performance-analysis/
 
 ## Sample Visualizations
 
-![Top Scorers](https://via.placeholder.com/600x300.png?text=Top+Goal+Scorers)
+### Top Goal Scorers
+![Top Goal Scorers](images/goals.png)
+
+### Top Assist Providers
+![Top Assists](images/assist.png)
+
+### Top 5 players
+![Top Players](images/players.png)
+
 
 ## How to Run
 

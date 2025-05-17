@@ -38,6 +38,7 @@ sns.barplot(data=top_scorers, x="Player", y="Goals", palette="viridis")
 plt.title("Top 5 Goal Scorers")
 plt.ylabel("Goals Scored")
 plt.xlabel("Player")
+plt.savefig("images/goals.png")
 plt.show()
 
 # Plot: Top 5 Assist Providers - Bar Chart
@@ -46,6 +47,7 @@ sns.barplot(data=top_assists, x="Player", y="Assists", palette="magma")
 plt.title("Top 5 Assist Providers")
 plt.ylabel("Assists")
 plt.xlabel("Player")
+plt.savefig("images/assist.png")
 plt.show()
 
 # Plot: Total Contributions (Goals + Assists) for Top 5 Players
@@ -54,4 +56,5 @@ sns.barplot(data=top_total, x="Player", y="Total_Contributions", palette="coolwa
 plt.title("Top 5 Players by Total Contributions")
 plt.ylabel("Total Goals + Assists")
 plt.xlabel("Player")
+plt.savefig("images/players.png")
 plt.show()
