@@ -40,7 +40,7 @@ football-performance-analysis/
 ### Top Assist Providers
 ![Top Assists](images/assist.png)
 
-### Top players
+### Top Players
 ![Top Players](images/players.png)
 
 
