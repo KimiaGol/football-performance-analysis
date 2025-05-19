@@ -25,6 +25,11 @@ football-performance-analysis/
 - Classements : meilleurs buteurs / passeurs
 - Visualisations avec matplotlib et seaborn
 
+## Carnet Jupyter
+
+Pour une version plus lisible et interactive de l’analyse, consultez le [football_analysis.ipynb](football_analysis.ipynb).
+
+
 ## Technologies utilisées
 
 - Python 3
@@ -94,6 +99,11 @@ football-performance-analysis/
 - Compute averages: goals, assists, minutes played
 - Rank top scorers and assist providers
 - Create visualizations with matplotlib and seaborn
+
+## Jupyter Notebook
+
+For a more interactive and readable version of the analysis, see the [football_analysis.ipynb](football_analysis.ipynb) notebook.
+
 
 ## Tools and Libraries
 
