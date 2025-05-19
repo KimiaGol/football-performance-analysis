@@ -3,6 +3,11 @@
 Ce projet analyse les statistiques des joueurs de football sur une saison complète.  
 L’objectif est d’identifier les meilleurs performeurs (buteurs, passeurs, temps de jeu) à l’aide de Python, Pandas et des visualisations.
 
+## Informations sur les données
+
+> **Remarque :** Ce jeu de données fictif s'inspire de la saison européenne 2022/23 et contient des statistiques simulées à des fins illustratives uniquement.
+
+
 ## Structure du projet
 
 ```
@@ -82,7 +87,12 @@ python main.py
 # Football Performance Analysis
 
 This project analyzes football player statistics over a full season.  
-It aims to identify top performers (goals, assists, minutes) using Python, Pandas, and data visualizations.
+It aims to identify top performers (goals, assists, minutes) using Python Pandas, and data visualizations.
+
+## Dataset Information
+  
+> **Note:** This mock dataset is inspired by the 2022/23 European football season and contains fictionalized statistics for illustrative purposes only.
+
 
 ## Project Structure
 
